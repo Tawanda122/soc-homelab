@@ -33,16 +33,14 @@ This design ensures isolation from the internet, preventing noise and maintainin
 ### Windows 11
 ![Windows IP Config](screenshots/02-windows-ipconfig.png)
 
-### Kali Linux
-![Kali IP](screenshots/03-kali-ip-address.png)
-
 ### Ubuntu Desktop
 ![Ubuntu IP](screenshots/04-ubuntu-ip-address.png)
 
 ### Metasploitable 2
 ![Metasploitable IP](screenshots/05-metasploitable-ip-address.png)
 
----
+### Kali Linux
+![Kali IP](screenshots/03-kali-ip-address.png)---
 
 ## Connectivity Testing & Troubleshooting
 
