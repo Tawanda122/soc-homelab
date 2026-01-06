@@ -133,7 +133,7 @@ Multiple failed authentication attempts were generated on the Windows endpoint.
 
 The activity was successfully ingested, correlated, and displayed within the Threat Hunting view.
 
-![Failed Logon Alert](./screenshots/09-failed-logon-alert.png)
+![Failed Logon Alert](./screenshots/09-failed-logon-alert.png.png)
 
 ---
 
